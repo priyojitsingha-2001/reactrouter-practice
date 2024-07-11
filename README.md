@@ -1,0 +1,2 @@
+# react-router practice project
+This is a simple project to practice react router. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora quia earum sequi facilis repellendus. Dolorem expedita id fugit necessitatibus eaque voluptatum, eveniet eius dolore, delectus cumque commodi explicabo in ducimus?
